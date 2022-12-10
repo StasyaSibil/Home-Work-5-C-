@@ -1,0 +1,15 @@
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.csproj.AssemblyReference.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.AssemblyInfoInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.AssemblyInfo.cs
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.csproj.CoreCompileInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\bin\Debug\net6.0\Задача 38.exe
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\bin\Debug\net6.0\Задача 38.deps.json
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\bin\Debug\net6.0\Задача 38.runtimeconfig.json
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\bin\Debug\net6.0\Задача 38.dll
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\bin\Debug\net6.0\Задача 38.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.dll
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\refint\Задача 38.dll
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\Задача 38.genruntimeconfig.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ 5 С#\Задача 38\obj\Debug\net6.0\ref\Задача 38.dll
